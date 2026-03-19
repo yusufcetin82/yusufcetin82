@@ -14,6 +14,7 @@ Yazılım geliştirmeye tutkulu bir full-stack geliştiriciyim. Backend tarafın
 - Açık kaynak projelere katkıda bulunuyorum
 
 ## 📫 İletişim
+- Kişisel Web Site: [Yusuf Çetin](https://yusufcetin.com)
 - LinkedIn: [Yusuf Çetin](https://linkedin.com/in/yusufcetin)
 - GitHub: [@yusufcetin82](https://github.com/yusufcetin82)
 
