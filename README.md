@@ -1,25 +1,26 @@
-# 👋 Merhaba, Ben Yusuf Çetin!
+# Yusuf Çetin
 
-## 👨‍💻 Hakkımda
-Yazılım geliştirmeye tutkulu bir full-stack geliştiriciyim. Backend tarafında Node.js/TypeScript, frontend tarafında ise React ve Next.js teknolojileriyle çalışıyorum.
+**Entrepreneur & Digital Strategist** based in Istanbul, Turkey.
 
-## 🛠 Teknoloji Yığınım
-- **Backend:** Python, Node.js, TypeScript, Express.js, PostgreSQL
-- **Frontend:** Django, Flask, React, Next, HTML5, CSS3, JavaScript
-- **DevOps:** Docker, AWS, CI/CD
-- **Araçlar:** Git, VS Code, Postman
+Co-founder of [Color N Drive](https://www.colorndrive.com) — a global D2C automotive touch-up paint and ceramic coating brand shipping to **140+ countries** — and [ADK Dijital](https://yusufcetin.com), a digital agency.
 
-## 🌱 Şu Anda
-- Yapay zeka ve makine öğrenmesi alanlarında kendimi geliştiriyorum
-- Açık kaynak projelere katkıda bulunuyorum
+## About
 
-## 📫 İletişim
-- Kişisel Web Site: [Yusuf Çetin](https://yusufcetin.com)
-- LinkedIn: [Yusuf Çetin](https://linkedin.com/in/yusufcetin)
-- GitHub: [@yusufcetin82](https://github.com/yusufcetin82)
+I started my career in 2001 in banking, building and managing alternative distribution channels (digital banking, internet banking) at TEB, BankPozitif, DenizBank, and Burgan Bank. In 2012 I pivoted to entrepreneurship, and since then I've been focused on cross-border e-commerce, D2C brand building, and digital strategy.
 
-## 📊 GitHub İstatistiklerim
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufcetin82&show_icons=true&theme=radical)
+Today I also explore AI-assisted software development (vibe coding), building web applications and automating workflows with modern tools.
 
-## 🌐 En Çok Kullandığım Diller
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufcetin82&layout=compact&theme=radical) 
+## Tech Stack
+
+- **Web:** Vite, Astro, Next.js, Tailwind CSS, HTML/CSS/JS
+- **Backend:** Cloudflare Workers, Hono, Node.js, ASP.NET
+- **Data:** SQLite, PostgreSQL
+- **AI & Automation:** Claude, GPT, Prompt Engineering, Workflow Automation
+- **Platforms:** Cloudflare Pages, GitHub Actions
+
+## Links
+
+- **Website:** [yusufcetin.com](https://yusufcetin.com)
+- **LinkedIn:** [linkedin.com/in/yusufcetin](https://www.linkedin.com/in/yusufcetin/)
+- **Color N Drive:** [colorndrive.com](https://www.colorndrive.com)
+- **Email:** hello@yusufcetin.com
