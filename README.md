@@ -2,7 +2,7 @@
 
 **Entrepreneur & Digital Strategist** based in Istanbul, Turkey.
 
-Co-founder of [Color N Drive](https://www.colorndrive.com) — a global D2C automotive touch-up paint and ceramic coating brand shipping to **140+ countries** — and [ADK Dijital](https://yusufcetin.com), a digital agency.
+Co-founder of [Color N Drive](https://colorndrive.com) — a global D2C automotive touch-up paint and ceramic coating brand shipping to **140+ countries** — and [ADK Dijital](https://yusufcetin.com), a digital agency.
 
 ## About
 
@@ -22,5 +22,5 @@ Today I also explore AI-assisted software development (vibe coding), building we
 
 - **Website:** [yusufcetin.com](https://yusufcetin.com)
 - **LinkedIn:** [linkedin.com/in/yusufcetin](https://www.linkedin.com/in/yusufcetin/)
-- **Color N Drive:** [colorndrive.com](https://www.colorndrive.com)
+- **Color N Drive:** [colorndrive.com](https://colorndrive.com)
 - **Email:** hello@yusufcetin.com
